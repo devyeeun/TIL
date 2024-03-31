@@ -1,6 +1,10 @@
 import feedparser, datetime
+import ssl
 
-tistory_uri="https://yeni-devnote.tistory.com/" #Your blog address here
+# SSL 인증서 검증 무시
+ssl._create_default_https_context = ssl._create_unverified_context
+
+tistory_uri="https://yeni-devnote.tistory.com/" 
 feed = feedparser.parse(tistory_uri+"/rss")
 
 markdown_text = """
@@ -10,7 +14,7 @@ markdown_text = """
      - FrontEnd
      - BackEnd
      - ...  
-     
+
 
 ### 📕 Latest Blog Posts   
 

@@ -1,14 +1,12 @@
-# TIL
 
-어제의 습관이 <br/>
-오늘의 나를 만들었듯이 <br/>
-오늘의 습관이 <br/>
-10년 후 나를 만든다
+### Hi there 👋   
 
----
+### 📖   Interest   
+     - FrontEnd
+     - BackEnd
+     - ...  
 
-### 1. 올해 개발책 타파
 
-- 코어 자바스크립트 - 위키북스
-- 모던 자바스크립트 핵심 가이드 - 한빛미디어
-- 그다음엔 무슨 책 하지..
+### 📕 Latest Blog Posts   
+
+<a href ="https://yeni-devnote.tistory.com/4"> [CSS] 색상, 배경 </a> <br><a href ="https://yeni-devnote.tistory.com/3"> [CSS] CSS의 기본과 선택자 </a> <br><a href ="https://yeni-devnote.tistory.com/2"> [VSCode] 유용한 VSCode 단축키 모음 - 코딩 속도를 올리는 꿀팁! </a> <br>

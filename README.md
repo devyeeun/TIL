@@ -9,4 +9,4 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://yeni-devnote.tistory.com/11"> [CSS] transition과 transform </a> <br><a href ="https://yeni-devnote.tistory.com/9"> [CSS] flex 레이아웃 </a> <br><a href ="https://yeni-devnote.tistory.com/10"> [CSS] position </a> <br>
+<a href ="https://yeni-devnote.tistory.com/14"> [CSS] 반응형 웹 </a> <br><a href ="https://yeni-devnote.tistory.com/13"> [CSS] grid레이아웃 </a> <br><a href ="https://yeni-devnote.tistory.com/12"> [CSS] animation </a> <br>
